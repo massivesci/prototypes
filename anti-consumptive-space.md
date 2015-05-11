@@ -22,13 +22,16 @@ The anti-consumptive space seeks to decouple public/commercial space from the ac
 The best way to test this idea may be to create this first as a limited time pop-up space, potentially within an existing commercial infrastructure such as a flea or a gallery.
 
 ## FAQ
-*What is consumption?*
+**What is consumption?**
+
 We define this as broadly as possible. Basically, anything that involves using something other than our bodies, for any purpose, but especially for sublimating thought that might arrive as a result of succumbing to boredom or lack of stimulus.
 
-*What is a public/commercial space?*
+**What is a public/commercial space?**
+
 A space that is either entirely public, or semi-private but open to the public if they come to consume (i.e., a commercial space). We define these two types of spaces together because the behavioral distinctions between them are minimal. Even though society provides public spaces, like parks, for leisure, there is usually pressure to behave in consumptive activity when entering them. It's rare to go to a park "just to sit," but common to go for picnics, concerts, to play sports, and so on. Meanwhile, almost all semi-private spaces in society are commercial ones, or are at least (as in the case of, say, public meeting places) geared towards consumption.
 
 There is a need for a semi-private space one can go, alone or with people, without feeling the need to consume anything. This _could_ be a semi-private area set aside in an already public space, but we like the idea of decoupling semi-private, commercial space from consumption.
 
-*Is enforced non-consumption — i.e., going somewhere to consume not consuming — actually just consumption?*
+**Is enforced non-consumption — i.e., going somewhere to consume not consuming — actually just consumption?**
+
 Potentially. This is an open question.
